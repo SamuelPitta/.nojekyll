@@ -1,5 +1,5 @@
 <h1>Koruja Câmbio: tecnologia e design em ação 🦉💱 </h1> 
-
+<br>
 Apresento meu mais recente projeto de interface de conversão de moedas, desenvolvido com HTML, CSS e JavaScript. A proposta foi unir funcionalidade e estética, criando uma experiência prática e agradável para o usuário.  
 
 ✨ Principais destaques:  
@@ -8,8 +8,9 @@ Apresento meu mais recente projeto de interface de conversão de moedas, desenvo
 - Interface intuitiva, com campos claros e resultado imediato.  
 - Identidade visual única, representada pelo mascote coruja — símbolo de sabedoria e visão estratégica.  
 
-🔗 Desenvolvido por: Samuel Pitta  
-Conecte-se comigo no LinkedIn: linkedin.com/in/samuelpitta
-<br>
+<h4>🔗 Desenvolvido por: Samuel Pitta  
+Conecte-se comigo no LinkedIn: www.linkedin.com/in/samuelpitta </h4>
+
+<h4>https://samuelpitta.github.io/.nojekyll/</h4>
 <br>
 <img src="https://raw.githubusercontent.com/SamuelPitta/.nojekyll/98262ef3a443b55388ff7436da27fbef4d5f3a84/assets/casa%20de%20cambio.jpg"/>
