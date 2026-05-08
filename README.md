@@ -10,3 +10,6 @@ Apresento meu mais recente projeto de interface de conversão de moedas, desenvo
 
 🔗 Desenvolvido por: Samuel Pitta  
 Conecte-se comigo no LinkedIn: linkedin.com/in/samuelpitta
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/SamuelPitta/.nojekyll/98262ef3a443b55388ff7436da27fbef4d5f3a84/assets/casa%20de%20cambio.jpg"/>
